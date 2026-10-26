@@ -1,0 +1,2 @@
+# elytopia-client
+closed source
